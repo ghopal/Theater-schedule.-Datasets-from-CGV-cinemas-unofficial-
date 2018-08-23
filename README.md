@@ -1,5 +1,5 @@
 # Theater Schedule
-Index jadwal pemutaran film di bioskop VGC. Data semenjak 01-01-2018 hingga 22-08-2018
+Index jadwal pemutaran film di bioskop VGC. Mulai tanggal 01-01-2018 hingga 22-08-2018
 
 # Info
 Jadwal berasal dari 46 cabang bioskop CGV. Dengan jumlah total data sebanyak 39093. 
