@@ -1,2 +1,2 @@
-# Theater-schedule.-Datasets-from-CGV-cinemas-unofficial-
+# Theater Schedule
 Index Jadwal Tayang Bioskop
